@@ -166,7 +166,7 @@ mv -f ${SCPinstal}/$1 ${ARQ}/$1
 chmod +x ${ARQ}/$1
 }
 
-# Instalação NEW-ULTIMATE
+# Instalaï¿½ï¿½o NEW-ULTIMATE
 fun_ip
 wget -O /usr/bin/trans https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/trans &> /dev/null
 clear
@@ -185,7 +185,7 @@ msg -bar2 && msg -verm "Key Failed! " && msg -bar2
 [[ -e $HOME/lista-arq ]] && rm $HOME/lista-arq
 exit 1
 }
-Key="qra-atsilK?29@%6087%?88d5K8888:%05+08+@@?+91"
+Key="qra-atsilK3?65?@9336@7b79K8888:?x?3x8%@x53@"
 REQUEST=$(echo $SCPresq|$SUB_DOM)
 echo "$IP" > /usr/bin/vendor_code
 cd $HOME
